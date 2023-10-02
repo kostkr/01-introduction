@@ -1,6 +1,6 @@
 ## Zadania do wykładu 1
 
-Projekt zawiera cztery zadania.
+Projekt zawiera cztery zadania!
 
 ### Zadanie 1 - Hello World
 Klasę `HelloWorld`, należy zaimplementować tak, a była uruchamialna jako aplikacja. Należy wyświetlić wszystkie parametry przekazane aplikacji, każdy paramter w nowej linii. W przypadku braku parametrów, należy wyświetlić komunikat `No input parameters provided`.
