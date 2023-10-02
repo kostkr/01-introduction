@@ -1,4 +1,4 @@
-## Zadania do wykładu 1.
+## Zadania do wykładu 1
 
 Projekt zawiera cztery zadania.
 
