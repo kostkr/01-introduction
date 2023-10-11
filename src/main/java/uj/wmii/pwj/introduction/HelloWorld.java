@@ -6,8 +6,7 @@ public class HelloWorld {
             for (String arg : args) {
                 System.out.print(arg + "\n");
             }
-        } else {
+        }else
             System.out.println("No input parameters provided");
-        }
     }
 }
